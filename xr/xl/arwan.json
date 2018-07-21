@@ -1,0 +1,29 @@
+{
+	"name": "Arwan",
+	"definition": "Large Destroyer"
+
+	"specs": {
+		"size": "XL",
+		"shield": 3600000,
+		"hull": 9600000,
+		"cargo": 0,
+		"speed": 60,
+		"dps": {
+			"total": 235600,
+			"4km": 90000
+		},
+		"price": 66300000
+	},
+	
+	"production": {
+		"bio-optic wiring": 598,
+		"energy cells": 1940,
+		"food rations": 930,
+		"fusion reactors": 112,
+		"podkletnov Generators": 318,
+		"microchips": 578,
+		"plasma-flow regulators": 146,
+		"reinforced metal plating": 424,
+		"scanning array": 340
+	}
+}

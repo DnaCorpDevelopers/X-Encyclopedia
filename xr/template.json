@@ -1,0 +1,29 @@
+{
+	"name": "",
+	"definition": ""
+
+	"specs": {
+		"size": "",
+		"shield": ,
+		"hull": ,
+		"cargo": ,
+		"speed": ,
+		"dps": {
+			"total": ,
+			"4km": 
+		},
+		"price": 
+	},
+	
+	"production": {
+		"bio-optic wiring": ,
+		"energy cells": ,
+		"food rations": ,
+		"fusion reactors": ,
+		"podkletnov Generators": ,
+		"microchips": ,
+		"plasma-flow regulators": ,
+		"reinforced metal plating": ,
+		"scanning array": 
+	}
+}

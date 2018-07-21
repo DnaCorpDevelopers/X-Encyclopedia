@@ -1,0 +1,29 @@
+{
+	"name": "Condor",
+	"definition": "Destroyer"
+
+	"specs": {
+		"size": "XL",
+		"shield": 1200000,
+		"hull": 2000000,
+		"cargo": 0,
+		"speed": 85,
+		"dps": {
+			"total": 55600,
+			"4km": 47200
+		},
+		"price": 36700000
+	},
+	
+	"production": {
+		"bio-optic wiring": 0,
+		"energy cells": 0,
+		"food rations": 0,
+		"fusion reactors": 0,
+		"podkletnov Generators": 0,
+		"microchips": 0,
+		"plasma-flow regulators": 0,
+		"reinforced metal plating": 0,
+		"scanning array": 0
+	}
+}

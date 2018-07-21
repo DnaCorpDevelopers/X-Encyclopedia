@@ -1,0 +1,29 @@
+{
+	"name": "Crane",
+	"definition": "Freighter"
+
+	"specs": {
+		"size": "XL",
+		"shield": 600000,
+		"hull": 2200000,
+		"cargo": 208000,
+		"speed": 75,
+		"dps": {
+			"total": 23600,
+			"4km": 0
+		},
+		"price": 9300000
+	},
+	
+	"production": {
+		"bio-optic wiring": 0,
+		"energy cells": 0,
+		"food rations": 0,
+		"fusion reactors": 0,
+		"podkletnov Generators": 0,
+		"microchips": 0,
+		"plasma-flow regulators": 0,
+		"reinforced metal plating": 0,
+		"scanning array": 0
+	}
+}

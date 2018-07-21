@@ -1,0 +1,29 @@
+{
+	"name": "Construction vessel",
+	"definition": "Building HQ"
+
+	"specs": {
+		"size": "XL",
+		"shield": 1200000,
+		"hull": 1400000,
+		"cargo": 0,
+		"speed": 74,
+		"dps": {
+			"total": 0,
+			"4km": 0
+		},
+		"price": 12390000
+	},
+	
+	"production": {
+		"bio-optic wiring": 12,
+		"energy cells": 320,
+		"food rations": 70,
+		"fusion reactors": 4,
+		"podkletnov Generators": 6,
+		"microchips": 14,
+		"plasma-flow regulators": 4,
+		"reinforced metal plating": 8,
+		"scanning array": 6
+	}
+}

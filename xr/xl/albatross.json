@@ -1,0 +1,29 @@
+{
+	"name": "Albatross",
+	"definition": "Freighter"
+
+	"specs": {
+		"size": "XL",
+		"shield": 2500000,
+		"hull": 1200000,
+		"cargo": 208000,
+		"speed": 75,
+		"dps": {
+			"total": 45700,
+			"4km": 0
+		},
+		"price": 12000000
+	},
+	
+	"production": {
+		"bio-optic wiring": 0,
+		"energy cells": 0,
+		"food rations": 0,
+		"fusion reactors": 0,
+		"podkletnov Generators": 0,
+		"microchips": 0,
+		"plasma-flow regulators": 0,
+		"reinforced metal plating": 0,
+		"scanning array": 0
+	}
+}

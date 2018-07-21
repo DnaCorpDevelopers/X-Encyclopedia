@@ -1,0 +1,29 @@
+{
+	"name": "Betaver",
+	"definition": "Miner"
+
+	"specs": {
+		"size": "M",
+		"shield": 50000,
+		"hull": 60000,
+		"cargo": 32000,
+		"speed": 218,
+		"dps": {
+			"total": 0,
+			"4km": 0
+		},
+		"price": 900000
+	},
+	
+	"production": {
+		"bio-optic wiring": 0,
+		"energy cells": 175,
+		"food rations": 60,
+		"fusion reactors": 2,
+		"podkletnov Generators": 2,
+		"microchips": 4,
+		"plasma-flow regulators": 0,
+		"reinforced metal plating": 7,
+		"scanning array": 3
+	}
+}
