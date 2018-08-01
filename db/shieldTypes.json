@@ -1,1 +1,1 @@
-[{"id": 1, "descr": "Scudi utilizzati da piccole navi e droni.", "name": "Leggero"}, {"id": 2, "descr": "Scudi utilizzati da trasporti, caccia pesanti e corvette.", "name": "Medio"}, {"id": 3, "descr": "Scudi utilizzati da grandi navi e stazioni.", "name": "Pesante"}]
+[{"descr": "Scudi utilizzati da piccole navi e droni.", "id": 1, "name": "Leggero"}, {"descr": "Scudi utilizzati da trasporti, caccia pesanti e corvette.", "id": 2, "name": "Medio"}, {"descr": "Scudi utilizzati da grandi navi e stazioni.", "id": 3, "name": "Pesante"}]
